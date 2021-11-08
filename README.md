@@ -2,12 +2,12 @@
     Hi there 👋, I'm Mustafa
 </h1>
 
-<p>
+<p align="justify">
 <img height=177 src="https://github-readme-stats.vercel.app/api?username=mustafadnms&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true"> <img height=177 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafadnms&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=7">
 </p>
 
 ## 🛠 Languages and Tools
-<i class="fab fa-html5"></i>
+
 
 
 
