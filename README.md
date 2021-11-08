@@ -9,10 +9,9 @@
 
 ## 🛠 Languages and Tools
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
+<img src="https://www.iconfinder.com/icons/294678/html5_icon"></img>
 
 
-<img src="https://img.shields.io/badge/Html5-F7DF1E?style=for-the-badge&logo=html5&logoColor=black"></img>
 
 
 
