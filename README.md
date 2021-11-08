@@ -9,7 +9,7 @@
 
 ## 🛠 Languages and Tools
 
-<img src="https://fontawesome.com/v5.15/icons/html5?style=brands"></img>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png">
 
 
 
