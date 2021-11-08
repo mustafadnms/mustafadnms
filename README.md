@@ -9,7 +9,7 @@
 
 ## 🛠 Languages and Tools
 
-<img src="https://www.iconfinder.com/icons/294678/html5_icon"></img>
+<img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/html5-256.png"></img>
 
 
 
