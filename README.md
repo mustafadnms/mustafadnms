@@ -9,7 +9,7 @@
 
 ## 🛠 Languages and Tools
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
 
 
 
