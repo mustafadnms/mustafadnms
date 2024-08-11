@@ -15,12 +15,8 @@
 
 ## 🛠 Framework
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="45" height="45" alt="Bootstrap">
+<img src="https://skillicons.dev/icons?i=dotnet,bootstrap" />
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,dotnet,bootstrap" />
-  </a>
-</p>
 
 
 
